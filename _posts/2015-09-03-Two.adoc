@@ -1,3 +1,5 @@
 = Two 
 
 It is two
+
+Can you link:fotos/deleteme.adoc[click]
