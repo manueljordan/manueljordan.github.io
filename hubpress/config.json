@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "manueljordan",
-    "repositoryName": "manueljordan.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"manueljordan","repositoryName":"manueljordan.github.io","branch":"master"},"site":{"title":"Manuel Jordan","url":"https://manueljordan.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//manueljordan.github.io/themes/Casper"}}
